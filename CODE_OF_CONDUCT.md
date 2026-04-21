@@ -12,6 +12,7 @@ We expect all participants to:
 - Welcome newcomers and help them learn
 - Accept constructive feedback gracefully
 - Focus on what is best for the community
+- Use inclusive language in all communications
 
 ## Enforcement
 
