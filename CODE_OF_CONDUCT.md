@@ -22,6 +22,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 > **Note (personal fork):** This is a personal learning fork. For issues specific to this fork, open a GitHub issue rather than emailing the upstream address above. This fork is not actively maintained for external contributors.
 >
+> This fork is read-only for external contributors — PRs will not be reviewed or merged.
+>
 > Last reviewed: 2025-07-10
 
 ## Attribution
