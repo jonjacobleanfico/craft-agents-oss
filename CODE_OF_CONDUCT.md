@@ -26,6 +26,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 >
 > This repo is used for experimenting with agent tooling and prompt orchestration patterns. Notes and experiments may appear in branches prefixed with `exp/`.
 >
+> Active experiment areas: multi-step tool chaining, context window management, and structured output validation.
+>
 > Last reviewed: 2025-07-14
 
 ## Attribution
