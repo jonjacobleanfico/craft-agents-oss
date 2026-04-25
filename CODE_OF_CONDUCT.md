@@ -31,6 +31,11 @@ All complaints will be reviewed and investigated promptly and fairly.
 > Last reviewed: 2025-07-14
 >
 > **Upstream sync:** Periodically rebased against `lukilabs/craft-agents-oss:main`. Check commit history for the last sync date before referencing any upstream behavior.
+>
+> **Branch naming conventions used in this fork:**
+> - `exp/*` — active experiments
+> - `wip/*` — work in progress, may be force-pushed
+> - `archive/*` — completed or abandoned experiments kept for reference
 
 ## Attribution
 
