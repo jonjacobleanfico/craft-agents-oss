@@ -29,6 +29,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 > Active experiment areas: multi-step tool chaining, context window management, and structured output validation.
 >
 > Last reviewed: 2025-07-14
+>
+> **Upstream sync:** Periodically rebased against `lukilabs/craft-agents-oss:main`. Check commit history for the last sync date before referencing any upstream behavior.
 
 ## Attribution
 
