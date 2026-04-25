@@ -22,7 +22,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 > **Note (personal fork):** This is a personal learning fork. For issues specific to this fork, open a GitHub issue rather than emailing the upstream address above. This fork is not actively maintained for external contributors.
 >
-> Last reviewed: 2025-01-01
+> Last reviewed: 2025-07-10
 
 ## Attribution
 
