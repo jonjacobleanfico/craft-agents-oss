@@ -24,7 +24,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 >
 > This fork is read-only for external contributors — PRs will not be reviewed or merged.
 >
-> Last reviewed: 2025-07-10
+> Last reviewed: 2025-07-14
 
 ## Attribution
 
