@@ -24,6 +24,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 >
 > This fork is read-only for external contributors — PRs will not be reviewed or merged.
 >
+> This repo is used for experimenting with agent tooling and prompt orchestration patterns. Notes and experiments may appear in branches prefixed with `exp/`.
+>
 > Last reviewed: 2025-07-14
 
 ## Attribution
